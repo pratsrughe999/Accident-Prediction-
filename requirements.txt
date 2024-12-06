@@ -8,3 +8,7 @@ numpy
 geopandas
 matplotlib
 seaborn
+beautifulsoup4
+lxml
+requests
+
